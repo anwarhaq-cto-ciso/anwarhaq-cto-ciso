@@ -1,5 +1,5 @@
 #  Hi, I’m Anwar Haq 👋
-I'm a researcher, technologist and a cybersecurity practitioner.
+A researcher, technologist and a cybersecurity practitioner.
 
 <!---
 anwarhaq-cto-ciso/anwarhaq-cto-ciso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
