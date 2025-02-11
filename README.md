@@ -1,4 +1,4 @@
-#  Hi, I’m Anwar Haq 👋
+#  Hi, I’m Anwar 👋
 A researcher, technologist and a cybersecurity practitioner.
 
 <!---
